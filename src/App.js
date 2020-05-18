@@ -1,10 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
+import Header from './components/header/header.component';
+import Posts from './components/posts/posts.components';
+
 
 function App() {
   return (
     <>
-      hi
+      <Header />
+      <Posts/>
     </>
   );
 }
