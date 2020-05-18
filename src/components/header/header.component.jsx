@@ -26,7 +26,7 @@ const Header=()=> {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" color="inherit">
-            Photos
+            Menu
           </Typography>
         </Toolbar>
       </AppBar>
